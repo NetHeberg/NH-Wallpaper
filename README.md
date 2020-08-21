@@ -1,5 +1,5 @@
 # NH-Wallpaper
-Des fonds d'écran NetHeberg dessinés sur Inkscape par moi-même :)
+Des fonds d'écran NetHeberg dessinés sur Inkscape :)
 
 # Plus d'infos sur NetHeberg
 
